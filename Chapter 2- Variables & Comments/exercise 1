@@ -1,0 +1,5 @@
+msg = "I love playing football."
+print(msg)
+
+msg = "It's really entertaining!"
+print(msg)
