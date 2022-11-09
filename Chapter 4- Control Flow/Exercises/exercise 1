@@ -1,0 +1,4 @@
+alien_color = 'blue'
+
+if alien_color == 'blue':
+    print("5 points added to your score!")
