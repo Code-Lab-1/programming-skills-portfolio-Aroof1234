@@ -1,6 +1,13 @@
-alien_color = 'blue'
+alien_color = 'Brown'
 
-if alien_color == 'blue':
-    print("5 points added to your score!")
+if alien_color == 'Brown':
+    print("You just earned 5 points!")
 else:
-    print("10 points added to your score!")
+    print("You just earned 10 points!")
+
+alien_color = 'Blue'
+
+if alien_color == 'Brown':
+    print("You just earned 5 points!")
+else:
+    print("You just earned 10 points!")
