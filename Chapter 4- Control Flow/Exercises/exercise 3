@@ -1,0 +1,8 @@
+alien_color = 'Blue'
+
+if alien_color == 'Brown':
+    print("You just earned 5 points!")
+elif alien_color == 'White':
+    print("You just earned 10 points!")
+else:
+    print("You just earned 15 points!")
