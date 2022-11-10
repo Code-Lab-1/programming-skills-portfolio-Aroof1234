@@ -3,7 +3,7 @@ alien_color = 'Brown'
 if alien_color == 'Brown':
     print("5 points added to your score!")
 
-alien_color = 'blue'
+alien_color = 'Blue'
 
 if alien_color == 'Brown':
     print("5 points added to your score!")
