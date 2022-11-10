@@ -1,0 +1,7 @@
+guests = ['naser ali', 'Aref baashn', 'darwesh koft']
+name = guests[0].title()
+print(f"{name}, please join us for dinner at 8.")
+name = guests[1].title()
+print(f"{name}, please join us for dinner at 8.")
+name = guests[2].title()
+print(f"{name}, please join us for dinner at 8.")
