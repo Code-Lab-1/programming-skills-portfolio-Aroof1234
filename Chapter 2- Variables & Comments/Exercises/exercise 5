@@ -1,0 +1,5 @@
+money=50
+usb_cost=6
+print("The purchases 8 USB sticks")
+balance=50-6*8
+print("balance after purchasing 8 USB sticks:",balance)
