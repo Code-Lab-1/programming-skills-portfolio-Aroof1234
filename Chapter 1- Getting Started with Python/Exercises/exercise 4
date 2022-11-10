@@ -1,0 +1,4 @@
+a='I'
+b='am'
+c='a happy human'
+print(a+b+c)
