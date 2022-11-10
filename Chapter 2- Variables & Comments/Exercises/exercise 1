@@ -3,6 +3,3 @@ print(msg)
 
 msg = "It's really entertaining!"
 print(msg)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
