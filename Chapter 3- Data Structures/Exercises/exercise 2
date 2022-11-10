@@ -1,4 +1,4 @@
-names = ['nasir', 'Aref', 'darwesh']
+names = ['naser', 'Aref', 'darwesh']
 msg = f"Greetings, {names[0].title()}!"
 print(msg)
 msg = f"Greetings, {names[1].title()}!"
