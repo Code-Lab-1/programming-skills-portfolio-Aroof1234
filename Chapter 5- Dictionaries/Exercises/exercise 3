@@ -1,0 +1,11 @@
+glossary={'function':'A function is a block of code which only runs when it is called',
+'arguments':'Information can be passed into functions as arguments.',
+'Loop':'Itering over a sequence','elif':'Used to test conditions after if condition',
+'break':'terminates the loop containing it'
+'keywords arguments': 'You can also send arguments with the key = value syntax.',
+    'value': 'An item associated with a key in a dictionary.',
+    'conditional test': 'A comparison between two values.',
+    'boolean ': 'represents one of two values, True or False',
+    }
+for i,j in glossary.items():
+    print('\n'+i+':'+j)
