@@ -1,0 +1,9 @@
+river={'Congo':'Africa','Nile':'Egypt','Victoria Nile':'Uganda'}
+for i,j in river.items():
+    print('\n'+i+":"+j)
+print('Rivers in dictionary')
+for i in river.keys():
+    print('\n'+i)
+print("Countries in dictionary")
+for i in river.values():
+    print('\n'+i)
