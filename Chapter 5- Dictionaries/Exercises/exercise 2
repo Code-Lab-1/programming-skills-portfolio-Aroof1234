@@ -1,0 +1,8 @@
+glossary={'function':'A function is a block of code which only runs when it is called',
+'arguments':'Information can be passed into functions as arguments.',
+'Loop':'Itering over a sequence','elif':'Used to test conditions after if condition',
+'break':'terminates the loop containing it'}
+print('\n\tBoolean:  '+glossary['function'])
+print('\n\tcomment:  '+ glossary['arguments'])
+print('\n\tLoop:  '+glossary['Loop'])
+print('\n\tbreak:  '+glossary['break'])
