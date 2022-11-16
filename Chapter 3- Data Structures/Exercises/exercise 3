@@ -1,0 +1,6 @@
+transport=['lexus','bmw','bentley','mercedes','toyota']
+print('I love',transport[0],', it is very smooth.')
+print("I would like to ride an",transport[1],'to my home country')
+print('I often ride',transport[2],'to go shopping')
+print(transport[3],'is a most convenient transport, specially in a crowded cities.')
+print('I take',transport[4],'to go to university')
