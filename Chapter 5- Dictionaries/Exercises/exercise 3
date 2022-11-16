@@ -4,7 +4,7 @@ glossary={'function':'A function is a block of code which only runs when it is c
 'break':'terminates the loop containing it'
 'keywords arguments': 'You can also send arguments with the key = value syntax.',
     'value': 'An item associated with a key in a dictionary.',
-    'conditional test': 'A comparison between two values.',
+    'pass Statement': 'statement to avoid getting an error..',
     'boolean ': 'represents one of two values, True or False',
     }
 for i,j in glossary.items():
