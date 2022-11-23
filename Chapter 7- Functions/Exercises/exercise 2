@@ -1,0 +1,5 @@
+def favorite_book(title):
+    """Deliver a message on my friend's favorite book."""
+    print(f"{title} is my favorite book of all time.")
+
+favorite_book('Da Vinci Code')
