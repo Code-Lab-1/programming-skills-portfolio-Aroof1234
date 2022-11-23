@@ -3,5 +3,5 @@ def make_shirt(size, message):
     print(f"\nProduction will start on {size} t-shirt.")
     print(f'Words printed on it will be "{message}"')
 
-make_shirt('medium', 'Just do it!')
-make_shirt(message="Just do it!", size='small')
+make_shirt('medium', 'Zaghs!')
+make_shirt(message="Zaghs!", size='small')
