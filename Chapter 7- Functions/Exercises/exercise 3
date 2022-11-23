@@ -1,0 +1,7 @@
+def make_shirt(size, message):
+    """Abstract of the shirt that will be produced."""
+    print(f"\nProduction will start on {size} t-shirt.")
+    print(f'Words printed on it will be "{message}"')
+
+make_shirt('medium', 'Just do it!')
+make_shirt(message="Just do it!", size='small')
