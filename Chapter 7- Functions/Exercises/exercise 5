@@ -1,0 +1,8 @@
+def describe_city(city, country='Yemen'):
+    """Describe a city."""
+    msg = f"{city.title()} is in {country.title()}."
+    print(msg)
+
+describe_city('Sanaa')
+describe_city('Abudhabi', 'UAE')
+describe_city('Hadramaut')
